@@ -1,3 +1,4 @@
+# Please make sure to update your organization and workspace information
 terraform {
   backend "remote" {
     organization = "zambrana"
