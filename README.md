@@ -4,6 +4,8 @@
 
 Just a simple demo where I show case integration with [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions), [Terraform Cloud](https://www.terraform.io/docs/cloud/index.html) and [ARM Templates inside terraform](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group_template_deployment) using _azurerm_resource_group_template_deployment_.
 
+It is set Azure Government, but it should in Azure Commercial as well.
+
 It creates the following resources:
 
 - A new Resource Group.
